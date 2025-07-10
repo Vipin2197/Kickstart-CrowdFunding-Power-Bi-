@@ -97,10 +97,15 @@ Bookmark navigation (optional)
 🚀 Predictive Indicator: Early backer engagement (first 48h) strongly linked to success
 
 🛠 Tools & Techniques Used
-Power BI Desktop – Data modeling, DAX, interactive visualizations
+Power BI Desktop – Data modeling, DAX, interactive visualizations.
 
 Power Query – Data transformation, cleaning
 
 SQL – Source-level filtering and aggregation
 
 Excel – Static tables for currency conversion
+
+Screenshots / Demos
+
+view : !![dashboard preview](<img width="1273" height="710" alt="power bi" src="https://github.com/user-attachments/assets/e0697bd4-0c01-4f5e-8da5-cff74552294d" />)
+
