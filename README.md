@@ -107,5 +107,5 @@ Excel – Static tables for currency conversion
 
 Screenshots / Demos
 
-view : !![dashboard preview](<img width="1273" height="710" alt="power bi" src="https://github.com/user-attachments/assets/e0697bd4-0c01-4f5e-8da5-cff74552294d" />)
+view : ![dashboard preview](<img width="1273" height="710" alt="power bi" src="https://github.com/user-attachments/assets/e0697bd4-0c01-4f5e-8da5-cff74552294d" />)
 
