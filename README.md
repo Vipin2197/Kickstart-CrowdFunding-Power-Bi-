@@ -99,11 +99,7 @@ Bookmark navigation (optional)
 🛠 Tools & Techniques Used
 Power BI Desktop – Data modeling, DAX, interactive visualizations.
 
-Power Query – Data transformation, cleaning
 
-SQL – Source-level filtering and aggregation
-
-Excel – Static tables for currency conversion
 
 Screenshots / Demos
 
